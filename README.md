@@ -1,1 +1,1 @@
-# jenskin-pipeline
+# jenkins-pipeline
